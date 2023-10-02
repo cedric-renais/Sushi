@@ -1,7 +1,5 @@
 # Sushiman
 
-![enter image description here](https://github.com/cedric-renais/Sushi/blob/main/assets/sushiman.png?raw=true)
-
 Landing page sur thème de la restauration, design par [Hakim Haiman](https://dribbble.com/mochamadhakim)
 
 ## Languages
